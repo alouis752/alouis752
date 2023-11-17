@@ -1,5 +1,7 @@
 # Hi, Im Alex!
 https://www.linkedin.com/in/alex-louis-47568628b/
+
+
 With a background in application engineering and a recent transition into sales, I bring a unique blend of technical expertise and business acumen to the field of data analytics. My passion lies in uncovering hidden patterns and trends within complex data, translating them into actionable insights that drive informed decision-making and business growth.
 
 During my tenure as an application engineer, I excelled at analyzing and interpreting vast amounts of technical data to visualize power system needs and identify potential bottlenecks. My ability to distill complex technical information into clear and concise narratives proved invaluable in communicating findings to both technical and non-technical stakeholders.
